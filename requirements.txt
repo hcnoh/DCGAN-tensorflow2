@@ -2,5 +2,5 @@ jupyter==1.0.0
 matplotlib==3.0.3
 numpy==1.17.2
 Pillow==6.2.0
-tensorflow==2.0.0
+tensorflow==2.6.4
 tensorflow-datasets==1.2.0
